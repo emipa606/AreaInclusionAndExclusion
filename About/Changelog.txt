@@ -1,5 +1,8 @@
 # Changelog for AreaInclusionAndExclusion
 
+1.5.3 - Fixed duplicated preview. Tired...
+
+
 1.5.2 - Fixed missing reupload-icon
 
 

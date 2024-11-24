@@ -35,6 +35,4 @@ https://github.com/gguake/RWMod-AreaInclusionExclusion
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/AreaInclusionAndExclusion?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/) | tags: area management 
-
 [![Image](https://img.shields.io/github/v/release/emipa606/AreaInclusionAndExclusion?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/3371333807) | tags: area management
