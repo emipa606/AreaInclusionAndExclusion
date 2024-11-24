@@ -1,4 +1,7 @@
 # Changelog for AreaInclusionAndExclusion
 
+1.5.2 - Fixed missing reupload-icon
+
+
 1.5.1 - Updated for 1.5, included 1.4 assembly from the unofficial version by Hyomoto
 

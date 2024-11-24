@@ -2,7 +2,7 @@
 <ModSyncNinjaData>
   <ID>9e672496-9c75-49d6-a642-920a97cac63e</ID>
   <ModName>Area Inclusion and Exclusion (Continued)</ModName>
-  <Version>1.5.1</Version>
+  <Version>1.5.2</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>emipa606</Owner>
@@ -12,8 +12,4 @@
     <Branch>master</Branch>
   </Host>
 </ModSyncNinjaData>
-
-
-
-
 
